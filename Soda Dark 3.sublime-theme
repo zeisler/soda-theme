@@ -708,6 +708,12 @@
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "layer0.texture": "Theme - Soda/Soda Dark/folder-open-selected.png"
     },
+    {
+        "class": "sidebar_label",
+        "color": [0, 0, 0],
+        "font.bold": false,
+        "font.size": 18.0
+    },
 
 //
 // STANDARD TEXT BUTTONS
